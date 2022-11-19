@@ -4,7 +4,7 @@ function aparacerPoke() {
     ash.animate({
         width: "20%",
         opacity: 0.5,
-        marginLeft: "0.6in",
+        marginLeft: "0.4in",
 
     }, 3000);
 
@@ -13,7 +13,7 @@ function aparacerPoke() {
     pokeball.animate({
         width: "20%",
         opacity: 0.5,
-        marginLeft: "0.6in",
+        marginLeft: "0.4in",
 
     }, 3000);
 
