@@ -2,7 +2,7 @@ function aparacerPoke() {
 
     const ash = $('#ash');
     ash.animate({
-        width: "24.5%",
+        width: "20%",
         opacity: 0.5,
         marginLeft: "0.6in",
 
@@ -11,7 +11,7 @@ function aparacerPoke() {
 
     const pokeball = $('#pokeball');
     pokeball.animate({
-        width: "24.5%",
+        width: "20%",
         opacity: 0.5,
         marginLeft: "0.6in",
 
